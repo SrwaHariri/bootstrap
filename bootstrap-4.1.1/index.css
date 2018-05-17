@@ -55,7 +55,8 @@ justify-content: center;
     background-color: #f7f7f7;
 }
 .card{
-   
+   display: flex;
+   flex-wrap: wrap;
     width: 25%;
     padding: .75rem;
     border:0;
